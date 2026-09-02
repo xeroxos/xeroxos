@@ -1,27 +1,32 @@
-# 👋 Hi, I'm xᴇʀᴏx ᴅᴇᴠ
+<div align="center">
 
-⚡ Developer | Creator | Builder
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=XEROX%20DEV&fontSize=80&fontColor=00AFFF&animation=fadeIn"/>
 
-🌐 Website: https://xeroxhub.site
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00AFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Automation+Builder;Open+Source+Explorer;Future+Tech+Enthusiast"/>
 
-I build digital tools, experiment with technology,
-and share my projects with the community.
+🌐 **https://xeroxhub.site**
 
-## 🚀 Current Focus
-- Web Development
-- Automation
-- Open Source Projects
-- AI & New Technologies
+</div>
 
-## ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+---
 
-⭐ Build. Learn. Improve.
+# 👋 Hello World!
 
-## 🌐 Connect
+```python
+class Developer:
 
-Website: https://xeroxhub.site  
-X: @xeroxos4  
-Instagram: @xerox.core
+    name = "XEROX DEV"
+    role = "Software Developer"
+    focus = [
+        "Web Development",
+        "Automation",
+        "AI Technologies",
+        "Open Source"
+    ]
+
+    def build(self):
+        return "Creating digital solutions ⚡"
+
+
+me = Developer()
+print(me.build())
