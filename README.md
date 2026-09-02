@@ -17,3 +17,9 @@ and share my projects with the community.
 HTML • CSS • JavaScript • Python • Linux
 
 ⭐ Build. Learn. Improve.
+
+## 🌐 Connect
+
+Website: https://xeroxhub.site  
+X: @xeroxos4  
+Instagram: @xerox.core
