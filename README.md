@@ -38,14 +38,19 @@ class Developer:
 
 me = Developer()
 print(me.build())
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=xeroxos&style=for-the-badge&color=blue">
 
-</div>
+
 
 ## ⚡ Latest Activity
 
 - 🔨 Building XeroxHub
 - 🤖 Experimenting with automation
 - 🌐 Exploring modern web technologies
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=xeroxos&style=for-the-badge&color=blue">
+
+</div>
