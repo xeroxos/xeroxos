@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=XEROX%20DEV&fontSize=80&fontColor=00AFFF&animation=fadeIn"/>
+<img src="./banner.png" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00AFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Automation+Builder;Open+Source+Explorer;Future+Tech+Enthusiast"/>
+<br>
 
-🌐 **https://xeroxhub.site**
+# ⚡ XEROX DEV
+
+### Developer • Creator • Builder
+
+**Building digital solutions, automation systems & future technologies**
+
+🌐 https://xeroxhub.site
 
 </div>
 
@@ -15,14 +21,16 @@
 ```python
 class Developer:
 
-    name = "XEROX DEV"
-    role = "Software Developer"
-    focus = [
-        "Web Development",
-        "Automation",
-        "AI Technologies",
-        "Open Source"
-    ]
+    def __init__(self):
+        self.name = "XEROX DEV"
+        self.username = "xeroxos"
+        self.role = "Software Developer"
+        self.focus = [
+            "Web Development",
+            "Automation",
+            "AI Technologies",
+            "Open Source"
+        ]
 
     def build(self):
         return "Creating digital solutions ⚡"
