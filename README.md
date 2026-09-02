@@ -13,6 +13,10 @@ and share my projects with the community.
 - Open Source Projects
 - AI & New Technologies
 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
 ## ⚙️ Tech Stack
 HTML • CSS • JavaScript • Python • Linux
 
